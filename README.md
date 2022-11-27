@@ -37,7 +37,7 @@ I'm a passionate Full Stack Developer from India 🇮🇳
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
-### ✍️ Blog Posts : 
+### <img src="https://media.giphy.com/media/Ll88bcCbnV5U5UGsW7/giphy.gif" width="30"/> Blog Posts :
 - [A2P messaging using AWS Services](https://blog.agamitechnologies.com/a2p-two-way-sms-using-amazon-aws-sdk-and-node-js/)
 - [Most Useful VScode Extensions](https://blog.agamitechnologies.com/vscode-extensions/)
 - [Full Stack CRUD using Sammyjs](https://blog.agamitechnologies.com/hey-sammy/)<!-- BLOG-POST-LIST:START -->
