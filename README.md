@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anmol1905/anmol1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" /></p>
+
+<h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 I'm a passionate Full Stack Developer from India 🇮🇳
 
@@ -34,3 +35,10 @@ I'm a passionate Full Stack Developer from India 🇮🇳
 #### Databases
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+
+### ✍️ Blog Posts : 
+- [A2P messaging using AWS Services](https://blog.agamitechnologies.com/a2p-two-way-sms-using-amazon-aws-sdk-and-node-js/)
+- [Most Useful VScode Extensions](https://blog.agamitechnologies.com/vscode-extensions/)
+- [Full Stack CRUD using Sammyjs](https://blog.agamitechnologies.com/hey-sammy/)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
