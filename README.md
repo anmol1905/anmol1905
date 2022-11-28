@@ -16,13 +16,18 @@ Here are some ideas to get you started:
 
 <h1 align="center">hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I'm a passionate Full Stack Developer from India 🇮🇳
+### :man_technologist: &nbsp;About Me :
 
-**About me**
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 💼 Full Stack Developer at [Agami Technologies](https://agamitechnologies.com/)
+- 🔭 I’m working as a Full Stack Developer at [Agami Technologies](https://agamitechnolies.com).
+- 🌱 Exploring new languages, frameworks and technologies.
+- ⚡ In my free time I solve problems on StackOverflow and work on Blender 3D modelling and animation.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anveeg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anveeg-sinha-669b801aa/)
 
-### My Skills
+---
+
+### 🛠 &nbsp;Languages and Tools :
 
 #### Languages
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -36,8 +41,11 @@ I'm a passionate Full Stack Developer from India 🇮🇳
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
+---
+<p align="center"><img src="https://media.giphy.com/media/Ll88bcCbnV5U5UGsW7/giphy.gif" width="100"/></p>
 
-### <img src="https://media.giphy.com/media/Ll88bcCbnV5U5UGsW7/giphy.gif" width="30"/> Blog Posts :
+### Blog Posts :
+
 - [A2P messaging using AWS Services](https://blog.agamitechnologies.com/a2p-two-way-sms-using-amazon-aws-sdk-and-node-js/)
 - [Most Useful VScode Extensions](https://blog.agamitechnologies.com/vscode-extensions/)
 - [Full Stack CRUD using Sammyjs](https://blog.agamitechnologies.com/hey-sammy/)<!-- BLOG-POST-LIST:START -->
