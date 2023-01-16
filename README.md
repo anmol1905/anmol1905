@@ -39,4 +39,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### My Stats :
-![LeetCode Stats](https://leetcode.card.workers.dev/anmol1905?theme=nord&font=source_code_pro&extension=heatmap)
+![LeetCode Stats](https://leetcode.card.workers.dev/anmol1905?theme=nord&font=source_code_pro&extension=null)
