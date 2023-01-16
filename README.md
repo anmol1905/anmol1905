@@ -39,8 +39,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### My Stats :
-![LeetCode Stats](https://leetcode.card.workers.dev/anmol1905?theme=nord&font=source_code_pro&extension=null)
-
+<div align="center">
+  
 <img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=17498746&theme=dracula"
 />
+  <br>
+<a href=''>![LeetCode Stats](https://leetcode.card.workers.dev/anmol1905?theme=nord&font=source_code_pro&extension=null)</a>
+
+</div>
