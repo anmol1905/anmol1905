@@ -38,6 +38,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- BLOG-POST-LIST:END -->
 
 ---
+### My Holopins :
+[![An image of @anmol1905's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anmol1905)](https://holopin.io/@anmol1905)
+
+---
 ### My Stats :
 <div align="center">
   
