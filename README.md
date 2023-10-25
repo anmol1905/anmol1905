@@ -33,8 +33,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [A2P messaging using AWS Services](https://blog.agamitechnologies.com/a2p-two-way-sms-using-amazon-aws-sdk-and-node-js/)
-- [Most Useful VScode Extensions](https://blog.agamitechnologies.com/vscode-extensions/)
-- [Full Stack CRUD using Sammyjs](https://blog.agamitechnologies.com/hey-sammy/)
+- [Most Useful VScode Extensions](https://medium.com/@agamitechnologies/some-vs-code-extensions-47ca16c89cd1)
+- [Full Stack CRUD using Sammyjs](https://medium.com/@agamitechnologies/hey-sammy-2b5f0d30a10a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
