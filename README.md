@@ -15,17 +15,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🛠 &nbsp;My Skill Sets :
 
-#### Languages
-<code><img height="20" alt="javascript" title="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="dart" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-#### Frameworks
-<code><img height="20" alt="react" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="vue" title="Vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="20" alt="flutter" title="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" alt="nodejs" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-#### Databases
-<code><img height="20" alt="mysql" title="Mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="mongodb" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+[![Languages](https://skillicons.dev/icons?i=js,dart,python,jquery,css,html)](https://skillicons.dev)
+
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,flutter,nodejs,alpinejs,electron,capacitorjs,express,graphql)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sequelize)](https://skillicons.dev)
+
+[![Cloud Services](https://skillicons.dev/icons?i=aws,azure,firebase,gcp)](https://skillicons.dev)
+
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,androidstudio,nginx,docker,bash)](https://skillicons.dev)
+
+[![3D](https://skillicons.dev/icons?i=blender,threejs)](https://skillicons.dev)
+
+
 
 ---
 <p align="center"><img src="https://media.giphy.com/media/Ll88bcCbnV5U5UGsW7/giphy.gif" width="100"/></p>
